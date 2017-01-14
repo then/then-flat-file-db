@@ -1,0 +1,31 @@
+{
+  "name": "then-flat-file-db",
+  "version": "1.0.0",
+  "description": "Promise based flat-file-db interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/then/then-flat-file-db.git"
+  },
+  "keywords": [
+    "then",
+    "promise",
+    "flat-file-db"
+  ],
+  "author": "Max Stoiber <contact@mxstbr.com> (http://mxstbr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/then/then-flat-file-db/issues"
+  },
+  "homepage": "https://github.com/then/then-flat-file-db#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "flat-file-db": "^1.0.0"
+  },
+  "dependencies": {
+    "promise": "^7.1.1"
+  }
+}
